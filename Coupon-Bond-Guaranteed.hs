@@ -1,4 +1,5 @@
 --Coupon-Bond-Guaranteed.hs
+--Use the Haskell editor at https://play.marlowe-finance.io/#/ to compile and run this smart contract example.
 
 {-# LANGUAGE OverloadedStrings #-}
 module CouponBondGuaranteed where
