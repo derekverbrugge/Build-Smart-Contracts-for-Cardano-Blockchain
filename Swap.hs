@@ -1,4 +1,5 @@
 --Swap of Ada and dollar tokens
+--Use the Haskell editor at https://play.marlowe-finance.io/#/ to compile and run this smart contract example.
 
 {-# LANGUAGE OverloadedStrings #-}
 module Swap where
