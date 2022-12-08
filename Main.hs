@@ -1,4 +1,6 @@
 -- 18. Fibonacci.hs
+-- To compile and run the Haskell lesson source-code, go to https://replit.com/ and copy and paste the code under these comments. 
+-- and copy and paste this into Main.hs
 --  -Derek Verbrugge
 
 fibonacci :: Int -> Int

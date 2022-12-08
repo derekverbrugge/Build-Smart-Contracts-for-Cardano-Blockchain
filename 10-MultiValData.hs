@@ -1,4 +1,6 @@
 -- 10. MultiValData.hs is a demonstration of multi value data types in Haskell.
+-- To compile and run this file, go to https://replit.com/ 
+-- and copy and paste this into Main.hs
 --  -Derek Verbrugge
 
 data Coordinate = Pt Int Int deriving Show

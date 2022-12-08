@@ -1,4 +1,6 @@
 -- 8. Tokens.hs is a demo of building tokens with Haskell.
+-- To compile and run this file, go to https://replit.com/ 
+-- and copy and paste this into Main.hs
 --  -Derek Verbrugge
 
 data Token = TokenString String | TokenInt Int deriving (Show, Eq)
