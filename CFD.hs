@@ -1,4 +1,5 @@
 --Contract for Differences
+--Use the Haskell editor at https://play.marlowe-finance.io/#/ to compile and run this smart contract example.
 
 {-# LANGUAGE NumericUnderscores #-}
 {-# LANGUAGE OverloadedStrings  #-}
